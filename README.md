@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asad939
 - 👀 I like playing with data 
-- 🌱 I’m currently learning Python & SQL
+- 🌱 Polishing my skills in  Python & SQL
 - 📫 http://linkedin.com/in/asad381
 
 <!---
