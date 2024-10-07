@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asad939
 - 👀 I like playing with data 
-- 🌱 Polishing my skills in  Python & SQL
+- 🌱 POWER BI, DAX, EXCEL,VBA, Python & SQL
 - 📫 http://linkedin.com/in/asad381
 
 <!---
